@@ -19,11 +19,6 @@ class ViewController: UIViewController {
         print("this is a git tutorial")
     }
 
-    
-    
-    
-    
-    
 
 }
 
