@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController {
 
     @IBAction func buttontapped(_ sender: Any) {
-        print("example button tapped")
+        print("You finished!")
     }
     override func viewDidLoad() {
         super.viewDidLoad()
